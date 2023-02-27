@@ -1,0 +1,29 @@
+{
+  "name": "fulloffice",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "app": "^0.1.0",
+    "body-parser": "^1.20.1",
+    "connect-mongo": "^4.6.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ip": "^1.0.4",
+    "express-session": "^1.17.3",
+    "geoip-lite": "^1.4.6",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ip": "^2.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20",
+    "request-ip": "^3.3.0"
+  }
+}
